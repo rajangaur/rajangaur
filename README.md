@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajangaur
 - 👀 I’m interested in Coding, Cooking, Running.
-- 🌱 I’m currently learning Advance Javascript.
+- 🌱 I’m currently learning Next.Js.
 - 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me : email me at gaurrajan1@gmail.com
 
